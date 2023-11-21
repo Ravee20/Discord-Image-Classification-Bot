@@ -67,4 +67,4 @@ async def ayirt(ctx, link):
     result = aımodeloflt.ai_fx()
     await ctx.send(result)
 
-client.run("MTEyMTE2OTA5NjMzNjIxNjEwNA.GnRqer.IjAM8EuTGfLj3E-XpGeeFv0eSRodfH4xRAV1pA")
+client.run("token")
